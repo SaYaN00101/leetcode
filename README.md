@@ -31,4 +31,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SaYaN00101/leetcode/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/SaYaN00101/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
