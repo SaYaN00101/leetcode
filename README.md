@@ -9,6 +9,7 @@
 | [0136-single-number](https://github.com/SaYaN00101/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SaYaN00101/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SaYaN00101/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/SaYaN00101/leetcode/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/SaYaN00101/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SaYaN00101/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SaYaN00101/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -44,6 +45,7 @@
 | [0007-reverse-integer](https://github.com/SaYaN00101/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SaYaN00101/leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/SaYaN00101/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/SaYaN00101/leetcode/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/SaYaN00101/leetcode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/SaYaN00101/leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -69,4 +71,24 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SaYaN00101/leetcode/tree/master/0136-single-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SaYaN00101/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SaYaN00101/leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SaYaN00101/leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SaYaN00101/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SaYaN00101/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
